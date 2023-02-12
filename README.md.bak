@@ -20,7 +20,7 @@ Note: The project might have been delivered, but it is not over yet. When time a
 	Terrain,
 	Model loading: Assimp.
 	
-<img src="repo_images/character.png" width="450" height="350">
+![Character in scene](repo_images/character.png)
 
 * Lighting/Shadows
 >	Blinn-Phong Lighting,
