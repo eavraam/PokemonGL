@@ -1,0 +1,3 @@
+C:\Users\Evripidis\Desktop\PokemonGL\x64\Debug\PokemonGL.exe
+C:\Users\Evripidis\Desktop\PokemonGL_new\x64\Debug\PokemonGL.exe
+C:\PROJECTS\PokemonGL\x64\Debug\PokemonGL.exe

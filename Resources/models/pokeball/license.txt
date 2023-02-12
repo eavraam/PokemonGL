@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pokemon Basic Pokeball
+* source:	https://sketchfab.com/3d-models/pokemon-basic-pokeball-9b29539199c14ddea4de7776c4d758df
+* author:	JMGameDev (https://sketchfab.com/JMGameDev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pokemon Basic Pokeball" (https://sketchfab.com/3d-models/pokemon-basic-pokeball-9b29539199c14ddea4de7776c4d758df) by JMGameDev (https://sketchfab.com/JMGameDev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

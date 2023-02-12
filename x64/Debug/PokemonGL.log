@@ -1,0 +1,39 @@
+﻿  Bounds.cpp
+  Camera.cpp
+  Environment.cpp
+  Main.cpp
+C:\PROJECTS\PokemonGL\Main.cpp(392,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\PROJECTS\PokemonGL\Main.cpp(821,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PROJECTS\PokemonGL\Main.cpp(948,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\PROJECTS\PokemonGL\Main.cpp(1299,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\PROJECTS\PokemonGL\Main.cpp(1299,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Mesh.cpp
+C:\PROJECTS\PokemonGL\Mesh.cpp(75,68): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model.cpp
+  RigidBody.cpp
+  Shader.cpp
+  Skybox.cpp
+  Terrain.cpp
+C:\PROJECTS\PokemonGL\Terrain.h(30,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\PROJECTS\PokemonGL\Terrain.cpp(40,29): warning C4018: '<': signed/unsigned mismatch
+C:\PROJECTS\PokemonGL\Terrain.cpp(41,30): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\PROJECTS\PokemonGL\Bounds.cpp(47): warning C4715: 'BoundingRegion::calculateCenter': not all control paths return a value
+C:\PROJECTS\PokemonGL\Bounds.cpp(60): warning C4715: 'BoundingRegion::calculateDimensions': not all control paths return a value
+  glad.c
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'C:\PROJECTS\PokemonGL\x64\Debug\glfw.pdb'; linking object as if no debug info
+  PokemonGL.vcxproj -> C:\PROJECTS\PokemonGL\x64\Debug\PokemonGL.exe

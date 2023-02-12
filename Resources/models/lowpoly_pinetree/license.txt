@@ -1,0 +1,11 @@
+Model Information:
+* title:	Handpainted Pine Tree
+* source:	https://sketchfab.com/3d-models/handpainted-pine-tree-f4f462de2c864c9a9cf3e5ad645be17c
+* author:	zal3wa (https://sketchfab.com/zal3wa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Handpainted Pine Tree" (https://sketchfab.com/3d-models/handpainted-pine-tree-f4f462de2c864c9a9cf3e5ad645be17c) by zal3wa (https://sketchfab.com/zal3wa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
