@@ -19,6 +19,8 @@ Note: The project might have been delivered, but it is not over yet. When time a
 	Skybox,
 	Terrain,
 	Model loading: Assimp.
+	
+![Character in scene](repo_images/character.png)
 
 * Lighting/Shadows
 >	Blinn-Phong Lighting,
@@ -28,7 +30,11 @@ Note: The project might have been delivered, but it is not over yet. When time a
 >	Rigidbody,
 	Collisions.
 	
+![Pokeball throwing](repo_images/pokeballThrow.png)
+	
 * User Inputs:
 > 	Movement,
 	Pokeball throwing,
 	Raycasting.
+	
+![Pokemon available to capture](repo_images/pokemonToCatch.png)
